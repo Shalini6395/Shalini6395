@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Shalini6395/Shalini6395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Hello_%28yellow%29.png" alt="shalini6395" /> I'm Shalini Gusain</h1>
+<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Hello_%28yellow%29.png" alt="shalini6395" /></h1>
+<h1 align="cemter>>SHALINI GUSAIN </h1>
 <h3 align="center">A passionate python aspirant.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini6395&label=Profile%20views&color=0e75b6&style=flat" alt="shalini6395" /> </p>
