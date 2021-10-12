@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center>IT'S SHALINI GUSAIN</h1>
+<h1 align="center">IT'S SHALINI GUSAIN</h1>
 <h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Hello_%28yellow%29.png" alt="shalini6395" /></h1>
                                                                                                                           
-<h3 align="center"><marquee>A PASSIONATE PYTHON ASPIRANT</marquee></h3>
+<h3 align="center"><mark>A PASSIONATE PYTHON ASPIRANT</mark></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini6395&label=Profile%20views&color=0e75b6&style=flat" alt="shalini6395" /> </p>
 
