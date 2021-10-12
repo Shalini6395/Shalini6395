@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Shalini Gusain</h1>
+<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Hello_%28yellow%29.png" alt="shalini6395" /> I'm Shalini Gusain</h1>
 <h3 align="center">A passionate python aspirant.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini6395&label=Profile%20views&color=0e75b6&style=flat" alt="shalini6395" /> </p>
@@ -22,12 +22,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalini6395" alt="shalini6395" /></a> </p>
 
 - 🔭 I’m currently working on **Merchant promotions**
-
 - 🌱 I’m currently learning **Django, Python, CSS, MySQL**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **shalini.gusain@gmail.com**
+- 📫 Reach me at **shalini.gusain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
