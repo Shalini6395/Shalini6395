@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Merchant promotions**
-- 🌱 I’m currently learning **Django, Python, CSS, MySQL**
+- 🔭 I’m currently working as **Software Engineer**
+- 🌱 I’m currently learning **Python, MySQL**
 
 - 💬 Ask me about **anything**
 
